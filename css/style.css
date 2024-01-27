@@ -1,0 +1,138 @@
+body {
+  background-color: rgb(195, 231, 243);
+  margin: 0px;
+  text-align: center;
+  font-family: "Handlee", cursive;
+}
+.c-pic {
+
+    float: left;
+    margin-right: 2rem;
+  width: 10rem;
+  
+}
+.com-pic {
+    float: right;
+    margin-right: 2rem;
+  width: 10rem;
+  
+}
+.contact-me{
+  margin-bottom: 10px;
+}
+.footer-link{
+  margin: auto 10px;
+}
+.btn{
+  -webkit-border-radius: 32px;
+  -moz-border-radius: 32px;
+  border-radius: 32px;
+  height: 0;
+  line-height: 0;
+  color: #121817;
+  font-family: Arial;
+  width: 181px;
+  font-size: 39px;
+  font-weight: 100;
+  padding: 31px;
+  background-color: #0ED8ED;
+  -webkit-box-shadow: 33px 24px 38px 4px #44544E;
+  -moz-box-shadow: 33px 24px 38px 4px #44544E;
+  box-shadow: 33px 24px 38px 4px #44544E;
+  text-shadow: 16px 8px 10px #181818;
+  border: ridge #00D988 0;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin: 40px;
+}
+
+.btn:hover {
+  border: outset #6FAAD9 0;
+  background: #116E65;
+  background-image: -webkit-linear-gradient(top, #116E65, #71CEEB);
+  background-image: -moz-linear-gradient(top, #116E65, #71CEEB);
+  background-image: -ms-linear-gradient(top, #116E65, #71CEEB);
+  background-image: -o-linear-gradient(top, #116E65, #71CEEB);
+  background-image: -webkit-gradient(to bottom, #116E65, #71CEEB);
+  -webkit-border-radius: 37px;
+  -moz-border-radius: 37px;
+  border-radius: 37px;
+  text-decoration: none;
+  margin: 40px;
+}
+
+
+h1 {
+  color: rgba(5, 137, 245, 0.966);
+  font-family: "Lugrasimo", cursive;
+  font-size: 312.5%;
+  margin-top: 0px;
+}
+h2 {
+  color: rgba(5, 137, 245, 0.966);
+  font-family:'Poppins', sans-serif;
+
+  font-size: 2.5rem;
+}
+
+h3 {
+  color: rgba(5, 137, 245, 0.966);
+  font-size: 2rem;
+}
+hr{
+  border:dotted #11999E 6px;
+  border-bottom:none;
+  width:4%;
+  margin:100px auto;
+
+}
+
+.intro{
+  width: 40%;
+  margin: auto;
+}
+.lastcontainer{
+  margin: 50px auto ;
+}
+.mountain{
+  width: 50%;
+}
+.middlecontainer {
+  background-color: rgb(255, 255, 255);
+  width: 100%;
+}
+.paragraph {
+  line-height: 2;
+}
+.skills-row {
+  width: 40%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.topcontainer {
+  width: 100%;
+  position: relative;
+  padding-top: 100px;
+}
+.web {
+  text-decoration: underline;
+}
+.topcloud {
+  width: 15%;
+  position: absolute;
+  right: 250px;
+  top: 50px;
+}
+.bottomcloud {
+  width: 15%;
+  position: absolute;
+  left: 280px;
+}
+.profile-pic {
+  padding-top: 20px;
+  width: 20rem;
+  border-radius: 100%;
+}
